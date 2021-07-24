@@ -7,9 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coreight98&exclude_repo=Paran_ajou_Project_Anything&hide=dockerfile,html&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Languages and Tools:
-<img src=https://user-images.githubusercontent.com/38166372/126860699-c5d3da6d-a6d8-43fc-9a88-ef1d91e11c3d.png width="50px">  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png width="45px">  <img src=https://user-images.githubusercontent.com/38166372/126861164-52580ffe-e5f7-4dae-9168-bdb404de4312.png width="50px">  <img src=https://user-images.githubusercontent.com/38166372/126860734-b77dc96c-4522-45d5-8c13-0b791c1590aa.png width="50px">  <img src=https://user-images.githubusercontent.com/38166372/126860914-4f4591e5-03a4-446f-983a-3a515bab85f5.png width="50px">  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png width="50px">
-
-
+<!--<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
 <!--
