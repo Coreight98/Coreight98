@@ -19,7 +19,7 @@
 |ARMY|19.02.11 ~ 20.09.16|[오픈소스SW 아카데미](https://github.com/ounols/Miracle-Diary) (정보통신진흥원장상)|ROKA 1st Artillery Brigade|
 |INTERN	|21.06 ~ 21.07|Study Automata Theory|TNC Lab|
 |INTERN	|21.07 ~ 21.08|[Development of hand bone key point detection](https://github.com/Coreight98/21_summer_internship)|Crescom|
-|EDU|	21.07 ~ |Boostcamp challenge 6|	NAVER CONNECT|
+|EDU|	21.07 ~ 21.08|Boostcamp challenge 6|	NAVER CONNECT|
   
 </details>
 
