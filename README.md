@@ -8,7 +8,42 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coreight98&exclude_repo=Paran_ajou_Project_Anything&hide=dockerfile,html&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coreight98&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-5.9%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침         32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
+🌆 낮　         50 commits     ██████░░░░░░░░░░░░░░░░░░░   25.77% 
+🌃 저녁         85 commits     ███████████░░░░░░░░░░░░░░   43.81% 
+🌙 밤　         27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92%
+
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+⌚︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+JavaScript               20 hrs 9 mins       ██████████████░░░░░░░░░░░   58.82% 
+HTML                     4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
+SCSS                     3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
+TypeScript               3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
+JSON                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+
+🔥 에디터들: 
+VS Code                  34 hrs 15 mins      █████████████████████████   100.0%
+
+💻 운영 체제들: 
+Mac                      34 hrs 15 mins      █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 14/09/2021
+<!--END_SECTION:waka-->
   
 ## Experience:
 
