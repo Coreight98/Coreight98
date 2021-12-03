@@ -17,7 +17,7 @@
 |INTERN	|21.06 ~ 21.07|Study Automata Theory|TNC Lab|
 |INTERN	|21.07 ~ 21.08|[Development of hand bone key point detection](https://github.com/Coreight98/21_summer_internship)|Crescom|
 |EDU|	21.07 ~ 21.08|Boostcamp challenge 6|	NAVER CONNECT|
-|EDU|	21.08 ~ |Boostcamp membership 6|	NAVER CONNECT|
+|EDU|	21.08 ~ 21.12|Boostcamp membership 6|	NAVER CONNECT|
 
 
 ## Languages and Tools:
