@@ -20,6 +20,8 @@
 |EDU|	21.08 ~ 21.12|Boostcamp membership 6|	NAVER CONNECT|
 |INTERN	|22.06 ~ 22.06|당근 알바팀|Daangn Market|
 |INTERN	|22.07 ~ 22.08|포털개발셀|Kakao|
+|COMPANY |22.09 ~|포털개발셀|Kakao|
+
 
 
 ## Languages and Tools:
