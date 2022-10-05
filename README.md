@@ -7,8 +7,8 @@
   
 <!-- ## Experience:-->
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=maxcha98)](https://solved.ac/maxcha98)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=maxcha98)](https://solved.ac/maxcha98) -->
 
 <!-- |Type|Date|Details|Organization|
 |----|----|--------|------|
