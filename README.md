@@ -1,6 +1,6 @@
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Coreight98)](https://github.com/anuraghazra/github-readme-stats)-->
- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hello&fontSize=90&animation=fadeIn) 
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hello&fontSize=60&animation=fadeIn) 
 
 
 
@@ -10,24 +10,27 @@
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=maxcha98)](https://solved.ac/maxcha98) -->
 
-<!-- |Type|Date|Details|Organization|
+ <div align="center">
+  
+|Type|Date|Details|Organization|
 |----|----|--------|------|
-|UNIV|17.03.01 ~|Department of software|Ajou University|
-|ARMY|19.02.11 ~ 20.09.16|[오픈소스SW 아카데미](https://github.com/ounols/Miracle-Diary) (정보통신진흥원장상)|ROKA 1st Artillery Brigade|
-|INTERN	|21.06 ~ 21.07|Study Automata Theory|TNC Lab|
-|INTERN	|21.07 ~ 21.08|[Development of hand bone key point detection](https://github.com/Coreight98/21_summer_internship)|Crescom|
+|UNIV|17.03 ~ 23.02|Department of software|Ajou University|
 |EDU|	21.07 ~ 21.08|Boostcamp challenge 6|	NAVER CONNECT|
 |EDU|	21.08 ~ 21.12|Boostcamp membership 6|	NAVER CONNECT|
-|INTERN	|22.06 ~ 22.06|당근 알바팀|Daangn Market|
 |INTERN	|22.07 ~ 22.08|포털개발셀|Kakao|
-|COMPANY |22.09 ~|포털개발셀|Kakao| -->
+|COMPANY |22.09 ~|포털개발셀|Kakao|
+
+</div>
+<!-- |ARMY|19.02.11 ~ 20.09.16|[오픈소스SW 아카데미](https://github.com/ounols/Miracle-Diary) (정보통신진흥원장상)|ROKA 1st Artillery Brigade|
+|INTERN	|21.06 ~ 21.07|Study Automata Theory|TNC Lab|
+|INTERN	|21.07 ~ 21.08|[Development of hand bone key point detection](https://github.com/Coreight98/21_summer_internship)|Crescom|
+|INTERN	|22.06 ~ 22.06|당근 알바팀|Daangn Market|-->
 
 
-
-## Languages and Tools:
+<!-- ## Languages and Tools:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> -->
 
 
