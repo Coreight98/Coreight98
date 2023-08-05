@@ -18,7 +18,8 @@
 |EDU|	21.07 ~ 21.08|Boostcamp challenge 6|	NAVER CONNECT|
 |EDU|	21.08 ~ 21.12|Boostcamp membership 6|	NAVER CONNECT|
 |INTERN	|22.07 ~ 22.08|포털개발셀|Kakao|
-|COMPANY |22.09 ~|포털개발셀|Kakao|
+|COMPANY |22.09 ~ 23.07|포털개발셀|Kakao|
+|COMPANY |23.08 ~|에디터fe셀|Kakao|
 
 </div>
 <!-- |ARMY|19.02.11 ~ 20.09.16|[오픈소스SW 아카데미](https://github.com/ounols/Miracle-Diary) (정보통신진흥원장상)|ROKA 1st Artillery Brigade|
