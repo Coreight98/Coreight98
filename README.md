@@ -10,7 +10,7 @@
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=maxcha98)](https://solved.ac/maxcha98) -->
 
- <div align="center">
+<!-- <div align="center">
   
 |Type|Date|Details|Organization|
 |----|----|--------|------|
@@ -21,7 +21,7 @@
 |COMPANY |22.09 ~ 23.07|포털개발셀|Kakao|
 |COMPANY |23.08 ~|에디터fe셀|Kakao|
 
-</div>
+</div> -->
 <!-- |ARMY|19.02.11 ~ 20.09.16|[오픈소스SW 아카데미](https://github.com/ounols/Miracle-Diary) (정보통신진흥원장상)|ROKA 1st Artillery Brigade|
 |INTERN	|21.06 ~ 21.07|Study Automata Theory|TNC Lab|
 |INTERN	|21.07 ~ 21.08|[Development of hand bone key point detection](https://github.com/Coreight98/21_summer_internship)|Crescom|
